@@ -7,6 +7,8 @@ The goal of the **App4Hack** is to:
  - Communicate throughout the hackathon 
  - Gain more efficiency by analyzing multiple hackathons data
 
+![App4Hack Teams App](https://github.com/melyassir/App4Hack/blob/main/App4Hack1.png)
+
 # Installation
  - Ensure the Power Apps code components for Canvas apps feature is enabled in the Environment settings.
  - Import Creator Kit solution (https://aka.ms/creatorkitdownload)
