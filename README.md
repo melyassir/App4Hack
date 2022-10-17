@@ -12,7 +12,7 @@ The goal of the **App4Hack** is to:
 # Installation
  - Ensure the Power Apps code components for Canvas apps feature is enabled in the Environment settings.
  - Import Creator Kit solution (https://aka.ms/creatorkitdownload)
- - Import [App4Hack solution](https://github.com/melyassir/App4Hack/blob/main/App4Hack_1_0_0_15_managed.zip)
+ - Import [App4Hack solution](https://github.com/melyassir/App4Hack/blob/main/App4Hack_1_0_0_16_managed.zip)
  - Add App4Hack to Teams channel Tab 
 
 # Power Platform Components
